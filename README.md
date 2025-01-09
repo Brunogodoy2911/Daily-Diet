@@ -23,7 +23,13 @@ ___
 ## 🎨 Layout
 Imagens da aplicação são vistas na imagem abaixo:
 
-![Daily-Diet Layout](./assets/DailyDietScreens.png)
+<p align="center">
+  <img src="./assets/Home.png" alt="Imagem 1" width="150" height="350" />
+  <img src="./assets/Estatísticas.png" alt="Imagem 1" width="150" height="350" />
+  <img src="./assets/Criação.png" alt="Imagem 1" width="150" height="350" />
+  <img src="./assets/Feedback.png" alt="Imagem 1" width="150" height="350" />
+  <img src="./assets/Refeição.png" alt="Imagem 1" width="150" height="350" />
+</p>
 
 ___
 
